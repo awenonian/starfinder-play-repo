@@ -311,3 +311,93 @@ The freezing afterward matters as much as the walking.
   cutting fast. Clock is running.
 - Orrun does **not** know aft is pressurised, or inhabited. See `orrun.md` for
   what's actually going on and why aft isn't on the list.
+
+### Scene 2 continued — the bulkhead
+
+Fennow (outfit operations, voice on the comm — brisk, pleased, decisive) ordered
+everyone forward of frame 200, no trunk work, no cuts crossing a bulkhead,
+**full day rate for all nine including the standing-around**, and "tell whoever
+spotted it they did exactly right." Then: "We'll take it from here. That's a
+specialist job and it isn't yours."
+
+Note the shape: the generous thing and the silencing thing are the same act, and
+Fennow does not experience himself as doing the second one.
+
+**Del's networked heritage found the household.** A domestic mesh node aft,
+polling for members every 41 seconds, had been requesting a handshake with her
+for twenty minutes. Her words: *"A mesh isn't one comm unit. It's several, that
+expect each other. There are people back there."*
+
+**Orrun's exit line, verbatim** — she knows what she's doing and does it anyway:
+
+> "I'm going to be up at the galley for five hours. I'm not counting heads till
+> the lock."
+
+### POSITION — Jchk asks the only question that mattered, and is misheard
+
+Jchk broadcast: **"Has the pressure differential been relayed to them?"** Meaning
+the people aft. Orrun heard "them" as the higher-ups and answered accordingly —
+*"You watched me do it."* Del parsed it correctly: *"I don't think that's who
+they meant."*
+
+Nobody had told the residents anything. Not that morning, not ever.
+
+### POSITION — Jchk will not instruct Del, and pays for it
+
+Del offered: **"I can answer it."** Then stood there. Jchk **refused to tell her
+to** (anathema: give an order), stood and waited, and when nothing happened,
+went and did it themselves.
+
+**Del did not act.** Not cowardice — she offered a capability and, absent
+instruction, defaulted to the org's boundary. Fennow said specialists; she's
+casual; she will not freelance. **She and Jchk froze in the same posture for
+opposite reasons and neither noticed.** One waiting on a hive, one waiting on a
+company.
+
+### The knocking
+
+Jchk put a hand on the bulkhead and used Limited Telepathy through it — no line
+of sight required by the rules, 30 ft, shared language. Sent
+**"Pressure differential. Vacuum this side."** three times, for redundancy,
+because *a thing sent three times has been received*.
+
+Someone had been standing on the other side of that door, silent, for eight
+hours. They answered by **hitting the wall**: one impact, pause, three evenly
+spaced, repeated identically.
+
+Jchk then relayed: **"Frame two-twenty and forward is scrap. Specialists will
+deal with this bulkhead."** Player's reasoning, verbatim: *"This is what I would
+tell a fellow worker, if they didn't know, and I see no reason to treat this
+person any differently."*
+
+**To Jchk this was courtesy — the purest kind they have.** To the household it
+was: your home is scrap and people are coming for your door, delivered by a voice
+that appeared inside your head unannounced, in your own language, from nowhere.
+
+Response: about twelve fast unspaced impacts — panic — then silence, then a
+deliberate structured pattern on an ~11-second loop. *2, 2 / 1, 1, 1 / 4, 4.*
+Someone sat down against the inside of the door and started transmitting.
+
+**Jchk cannot read it.** A Rhythm mystic, hand on the door, receiving pure
+rhythm, understanding nothing, because there is no agreed protocol. Del:
+*"They can hear you. You can't hear them."*
+
+Jchk's response: *"I do not understand. There is no translator. Specialists will
+need a translator."* Considered the job done and turned to leave.
+
+**Player, out of character:** *"I, as Justin, am hoping that Del isn't ok with
+just leaving."*
+
+### GM note on how Del must be played here
+
+She can act — but **not from moral outrage.** Her trade is standing between
+people and harm; that is the job she liked and wants back. What she sees is an
+occupied structure with a pending hazard, no notification, and nobody posted on
+it. **An unstaffed post, not an injustice.**
+
+She gets to the right answer by being better at Jchk's own logic than Jchk is —
+Jchk leaves because their job is done, Del stays because a job is undone. That
+keeps her a challenge rather than an ally, and it is not a lecture.
+
+And the translator Jchk says doesn't exist has been standing next to them the
+whole time, offering, unused, because Jchk would not give an order.
