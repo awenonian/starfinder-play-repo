@@ -84,3 +84,68 @@ Player's reasoning for Rhythm, verbatim:
   would refuse it. Flagged to the player as a position worth recording on the
   sheet rather than leaving as a silent absence. **Player has not responded to
   this yet — do not treat it as settled.**
+
+---
+
+### Creation, continued
+
+- **Background:** Recluse. Trained in Survival + Swarm Lore; feat Dubious
+  Knowledge.
+- **Name:** **Jchk**, emphasis on the *chk*. Player's note, verbatim: "Weird for
+  non-complex-mouth-parts to pronounce, so most chordates just call them 'J', or
+  mispronounce it as 'Chick', whichever is easier."
+- **Pronouns:** they/them. Player's reasoning, verbatim: "I'll probably slip up
+  and say 'he' as well, just because it's natural for me to think of my character
+  that way. But I do want they/them, because I figure the idea of human gender
+  binary fits a bug-person loosely at best. (The whole drone vs. worker thing in
+  bees/ants is *kinda* male vs female, but mostly biologically. Socially it's not
+  an easy map)." **If the player writes "he", that is not a correction — keep
+  writing they/them.**
+- **Home world / port of call:** Absalom Station. The Spike and the Ghost Levels.
+- **Age:** 26, player's offhand pick. GM added that it's an estimate, because the
+  Swarm doesn't record individual births.
+- **Languages:** Common, Shirren, Trinary, Vesk. One Intelligence language still
+  open.
+
+Player's reasoning on Vesk, verbatim — this changes what the language means and
+should not be lost:
+
+> "I think Vesk used to be tyrants, and so many ancestries (like skittermanders)
+> speak it because they used to be oppressed by the Vesk."
+
+Checked against the rules and it holds: the Veskarium is an empire of seven
+conquered planets, and the listed Vesk-speakers include the pahtras of Pulonis,
+who fought a war of independence. Jchk learned the language of an occupier
+because it's what the occupied were made to learn.
+
+### The cult — player-offered
+
+Player proposed it while sorting out how a recluse lives on a crowded station:
+
+> "maybe even having joined a cult of some kind as a vulnerable newly-out-of-the-
+> hive mind shirren, which would isolate me, and I think would provide the same
+> Dubious Knowledge thing."
+
+GM took it and built **the Open Hand of Hylax** on top (see
+`gm/the-open-hand.md`, `player-facing/absalom-station.md`). **Proposed, not yet
+signed off by the player.** Sequence as it stands: escaped the Swarm → arrived at
+Absalom → about a year in the Open Hand → left → the Spike.
+
+**Not yet answered: how Jchk got out.** Explicitly left to the player. Do not
+fill this in.
+
+### Edicts and anathema — settled, with one deliberate omission
+
+Edicts: ask before you act on someone; offer people a way to refuse you; say it
+out loud when you see someone being made to obey.
+
+Anathema: bond an unwilling creature; give an order; **submit to authority**
+(player's rewording of a weaker draft).
+
+Player cut a proposed edict about giving away what you have:
+
+> "I don't think the 'give what you have' fits exactly. I think they'd have some
+> mixed feelings around selflessness in general with their inner turmoil."
+
+Logged in `pc-intentions.md` as an open tension. **Selflessness is not a settled
+question for this character.**

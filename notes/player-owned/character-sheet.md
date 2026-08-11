@@ -20,9 +20,9 @@ Points spent, vitality network drawn down, consumables used, credits spent.
 | **Size** | Medium |
 | **Speed** | 25 feet |
 | **Deity** | **None.** Not a champion of anything. See `gm/pc-intentions.md`. |
-| **Home world** | **OPEN — not yet chosen** |
-| **Port of call** | **OPEN — not yet chosen** |
-| **Age** | **OPEN** |
+| **Home world** | Absalom Station |
+| **Port of call** | Absalom Station — the Spike, and the Ghost Levels below it |
+| **Age** | 26, **estimated**. See below. |
 | **Hero Points** | 1 at the start of each session |
 
 **On the name:** most chordates can't produce the *chk* and settle for "J", or
@@ -87,8 +87,15 @@ it across.
 
 ## Languages
 
-Common, Shirren, + one regional (**OPEN**), + 2 from Intelligence (**OPEN** —
-Trinary and Vesk proposed, see below).
+**Common, Shirren, Trinary, Vesk**, + one more from Intelligence (**OPEN**).
+
+- **Trinary** — Aballon; anacites and androids. Beings manufactured to serve, and
+  then abandoned by the First Ones who built them. Jchk has opinions.
+- **Vesk** — the Veskarium's tongue. Note who actually speaks it: an empire of
+  seven conquered planets, plus the pahtras of Pulonis, who fought a war of
+  independence and are still listed among its speakers. Jchk did not learn Vesk
+  to talk to vesk. They learned it because it's what the occupied were made to
+  learn.
 
 **Limited Telepathy** — communicate mentally with creatures within **30 feet**
 that share a language with you. No access to their thoughts; carries no more
@@ -193,19 +200,36 @@ don't count. You're comfortably under.
 *Armor environmental protections: 1 day of vacuum/atmosphere survival (item level
 1 minimum), recharged free at any station in 10 minutes.*
 
-## Edicts and anathema — PROPOSED, needs player sign-off
+## Edicts and anathema
 
-**Edicts:** ask before you act on someone; offer people a way to refuse you;
-give what you have to whoever needs it, without being asked twice.
+**Edicts**
+- Ask before you act on someone.
+- Offer people a way to refuse you.
+- Say it out loud when you see someone being made to obey.
 
-**Anathema:** bond an unwilling creature; give an order; accept "because I said
-so" as a reason.
+**Anathema**
+- Bond an unwilling creature.
+- Give an order.
+- Submit to authority.
+
+*Player cut a proposed edict about giving away what you have: selflessness is
+not a settled question for Jchk, and an edict would have made it one. Left out
+deliberately — this is an open tension, not an oversight.*
+
+## On the age
+
+26 is Jchk's **estimate**. The Swarm does not record when an individual began,
+because there are no individuals to record. Every ex-Swarm shirren arrives in the
+galaxy having to pick a number, and most of them pick one that makes the
+paperwork go through.
 
 ## Open decisions
 
-- Home world, port of call, age
-- Regional language + 2 Intelligence languages (**Trinary** proposed — androids
-  and anacites, beings built to serve and then abandoned; **Vesk** proposed)
+- One remaining Intelligence language (**Castrovelian** suggested — lashuntas
+  *and formians*, whose hive-cities are ruled by queens. A shirren learning the
+  language of another hive species is doing it on purpose.)
 - Whether the pulsecaster's nonlethal setting is a principle or just what was
   cheap. It is also, notably, the gun police carry.
-- Edicts and anathema above
+- **The Open Hand** — the group Jchk fell in with on arrival, and left. Proposed,
+  awaiting player sign-off. See `player-facing/absalom-station.md`.
+- How Jchk got out of it. **Player's call.**

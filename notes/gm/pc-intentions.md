@@ -73,6 +73,23 @@ whole problem.
 - Give an order. They will make requests, at length, with outs offered.
 - Accept "because I said so" as a reason, from anyone, about anything.
 
+## Selflessness is NOT settled — player was explicit
+
+A proposed edict — "give what you have to whoever needs it, without being asked
+twice" — was **cut at the player's request**:
+
+> "I don't think the 'give what you have' fits exactly. I think they'd have some
+> mixed feelings around selflessness in general with their inner turmoil."
+
+This matters more than it looks. Jchk is a healer with a class built entirely on
+pouring themselves into other people, and they have **not** decided that giving
+is good. The obvious reading — freedom-lover, therefore generous — is wrong, and
+writing it into an edict would have closed the question by fiat.
+
+Live options, none of them chosen yet: is giving freely the opposite of being
+used, or the same shape with better manners? Does it count as a choice if you
+can't stop yourself? **Leave open. Do not resolve on Jchk's behalf.**
+
 ## Consent as mechanic
 
 Mystic Bond requires *willing* creatures — the rules say so. They treat this as
