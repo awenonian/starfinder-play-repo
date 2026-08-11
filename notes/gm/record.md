@@ -250,3 +250,64 @@ Established in this exchange (see `jchk-voice.md`): shirren mouth parts can't
 form other languages, so Jchk speaks Shirren aloud and everything else goes by
 telepathy — 30 feet, shared language only. Their voice is structurally a private
 channel.
+
+### Scene 2: the Kettle, frame 220
+
+Hull 4407-K, a 4400-series bulk hauler in the Armada, dark eleven years, called
+the Kettle for its shape. Crew of nine casuals + foreman **Sazha Orrun** (ysoki).
+Day rate 45 credits, cash at end of shift, no contract. Rules: strip everything
+forward of frame 220; aft of 220 is "not on the list."
+
+Two hours in, working a conduit trunk four frames from the aft bulkhead, **Jchk's
+armour cycled down** — there is breathable atmosphere seeping forward through the
+frame-220 seal. Eleven years dark. Nothing on the manifest.
+
+**Survival check to read it: rolled 3, total 10 vs DC 15 — FAILED.** Jchk got the
+real hazard (pressure differential; conduit trunks pass through bulkheads; the
+crew is cutting toward one) but **misjudged the volume as a small trapped
+pocket** — a sealed tank or cabin, residual, nobody's problem. They did not
+consider that a third of the hull is holding station-normal atmosphere and that
+something is *making* it.
+
+*(Noted: this was an environmental read, not Recall Knowledge, so Dubious
+Knowledge did not fire. Still unused.)*
+
+### POSITION — Jchk reports, and waits
+
+Jchk sent by telepathy: **"Pressure differential. Atmosphere past the bulkhead."**
+Orrun was 40+ metres forward — out of the 30-foot range — so only Del received it.
+
+Then Jchk **stopped and waited for the decision to come back down.** Player,
+verbatim:
+
+> "There, the message would be relayed up chains to someone who makes the
+> decision, so I don't think to warn anyone not nearby myself."
+>
+> "It may take someone to say something to realize the relay isn't happening, and
+> that we may need to make the decision ourselves."
+
+**This is enormous and it must not be lost.** Jchk's *politics* are anti-hive.
+Jchk's *reflexes* are still hive reflexes: put the fact into the system, hold
+position, await instruction. They violate their own anathema — submit to
+authority — by pure habit, in a situation with no authority in it at all.
+
+Del broke it, without meaning to, by asking for clarification of her instruction:
+
+> "So. Are you telling me, or are you telling me to tell her?"
+
+**Jchk's answer, verbatim:** *"I tell you, you tell others, they tell others?"* —
+delivered as a statement they used to be certain of and now aren't.
+
+Then Jchk worked out there was nobody in the chain between themselves and Orrun,
+stood up, walked the forty metres, delivered **the identical message**, and froze
+again.
+
+**First real act of individual agency, and it was carrying a sentence.** Mark it.
+The freezing afterward matters as much as the walking.
+
+### Open
+
+- A large vesk on the same conduit trunk, ~9 m from the bulkhead penetration,
+  cutting fast. Clock is running.
+- Orrun does **not** know aft is pressurised, or inhabited. See `orrun.md` for
+  what's actually going on and why aft isn't on the list.
