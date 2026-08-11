@@ -202,3 +202,51 @@ answers Jchk's confusion, which they have read and not yet heard.
 - Whether *charm* being unlearned gets written down as a refusal.
 - Jchk's discomfort about music and wanting. **OPEN. Do not resolve.**
 - Whether selflessness is good. **OPEN. Do not resolve.**
+
+---
+
+## Session 1 — play begins
+
+### Scene 1: the pick-up line, Arm Seven, 0500
+
+Casual-labour queue on the dock apron. Board reads STRIP-OUT CREW / HULL
+4400-SERIES / DAY RATE / NO CERTS REQ. Forty-one people; Jchk counted. Jchk at
+**0 credits**, eating out of a noodle stall's end-of-night pot.
+
+**Del** introduced herself unprompted, having clocked Jchk's posture: *"Ex-Swarm
+shirrens stand like they're waiting to be told. No offence meant. I'm from
+Aballon, we notice standing."*
+
+Foreman (ysoki, grey-muzzled, unnamed so far) picked Del and Jchk. Four down the
+line she passed over **a lashunta** who has been in that queue at least four days
+running, thin, coat too light. The lashunta said nothing. Nobody said anything.
+
+### POSITION — Jchk, by omission
+
+**Jchk did not notice the lashunta**, and the player was explicit about why:
+
+> "I don't make the connection between being here all those days and their
+> thinness. If they needed something, they would say something."
+
+**This is a position and it is the most important thing in the scene.** It is the
+shirren-communal assumption running underneath everything: in a hive, need is
+broadcast; need announces itself; silence means sufficiency. It is the same blind
+spot as the boss/employee thing seen from the other side — Jchk cannot detect a
+need that isn't stated, and cannot detect a consent that isn't real.
+
+Cost: nothing yet. **Status: OPEN.** Do not have anyone point this out. It should
+come back when it is expensive, and it should arrive as a consequence, not a
+lesson.
+
+**GM ruling made here: the lashunta leaves the screen entirely this scene.**
+Keeping them in frame would be nudging. They exist; they are not a prop.
+
+### What Jchk did
+
+Spoke to Del by telepathy, in Trinary: **"I read and write this language."**
+Then moved off to the transit tube.
+
+Established in this exchange (see `jchk-voice.md`): shirren mouth parts can't
+form other languages, so Jchk speaks Shirren aloud and everything else goes by
+telepathy — 30 feet, shared language only. Their voice is structurally a private
+channel.
