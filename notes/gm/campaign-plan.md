@@ -63,13 +63,36 @@ Jchk finds the entire procedure obscene and is standing in it.
   simply not being chosen, which is a different injury, and Jchk's framework will
   strain against it. Don't underline this. Let it be uncomfortable.
 
-**Not yet decided, deliberately:** what's actually aboard the hauler. Decide
-after seeing how Jchk plays the queue — the complication should grow out of what
-they did there, not arrive on schedule.
+**RESOLVED IN PLAY — session 1.** All three candidates turned out to be the same
+thing. Six people live aft of frame 220 (`kettle-home.md`); the ship is running
+life support nobody accounted for; and the outfit's title only cleared because a
+docking clerk stopped keeping the hull flagged occupied-disputed.
 
-Candidates held loosely: someone still living aboard who isn't supposed to be;
-the ship isn't as dead as the manifest says; the salvage outfit doesn't have the
-title it claims to have.
+**The complication grew out of the queue exactly as intended.** Jchk's position
+there — *if they needed something, they would say something* — got restated by
+the world at scale: a household that has been silent for eleven years because
+being noticed is how you get moved.
+
+### Where arc 1 goes now
+
+The driving question is **who signed the salvage order**, and Jchk has taken it
+on as a favour to Sevi. Two documents (see `state.md`): the outfit's work order,
+which is on Orrun's datapad and costs only asking; and the Station registry
+clearance, which needs a terminal and Computers or Society.
+
+Following it leads to Fennow, and past Fennow to whoever approved the work order,
+and sideways to a docking registry clerk who is no longer there.
+
+**Hold the line on this:** the answer at the end of that chain should be
+disappointing rather than villainous. Somebody approved a legal salvage on a hull
+whose occupancy flag had lapsed. That is very probably the whole of it. The
+horror is that it *works* — the plan is to strip the forward two-thirds and let
+the ship become uninhabitable by degrees, and every step of it is lawful, and
+nobody is committing it.
+
+Jchk is entitled to be furious about this and entitled to be **right**. Give them
+that. It's the release valve that makes it bearable that they're wrong about
+Del.
 
 ## Standing GM rules for this campaign
 

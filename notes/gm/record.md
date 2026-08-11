@@ -445,3 +445,38 @@ information, therefore actionable. They'll try.
   occupied-disputed flag drop. Harder. This is where the clerk was.
 
 Sevi asked about the second. The first is the stepping stone.
+
+### Session 1 ends here
+
+Stopped mid-scene by agreement, corridor outside frame 220, ~4½ hours of shift
+left. Nobody has moved. Current truth lives in `state.md`; positions taken live
+in `positions.md`.
+
+Last exchanges over the mesh, verbatim, because they matter:
+
+Jchk gave their name by typing it — spelled exactly, which no mouth in the galaxy
+can do:
+
+> **Jchk:** Jchk
+>
+> **Sevi:** thats not a name a mouth makes
+>
+> **Sevi:** good
+
+And Sevi, unprompted, handed over the drop location and a warning about it:
+
+> "theres a locker at upwell transfer, bay nine, third row. thats where we leave
+> it. if you find the clerks name thats where shes been collecting from"
+>
+> "dont go there first. go there last. if theyre watching it and you go there
+> first you tell them everything"
+
+> "if this costs you the job dont do it. i mean that. i know how that sounds
+> coming from someone behind a door. i still mean it"
+
+**Also worth keeping:** Del is the only person who can pronounce Jchk's name.
+She's an android with a manufactured larynx and a recording of them saying it
+once. She said it at the moment she asked them to stay, and did not appear to
+notice she'd done anything.
+
+Immediate next move on the table: walk forward and ask Orrun for the work order.
