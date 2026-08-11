@@ -149,3 +149,56 @@ Player cut a proposed edict about giving away what you have:
 
 Logged in `pc-intentions.md` as an open tension. **Selflessness is not a settled
 question for this character.**
+
+### The escape — player-authored, canon
+
+Player answered "how did you get out of the Open Hand." Their account, close to
+verbatim:
+
+> "I think that's where I learned languages like Vesk, because many of the people
+> who would join speak languages like that. Then one day, maybe it slipped
+> through into the library, maybe someone trying to bust the cult threw a flash
+> drive with it on there, or something, but I found a book, also written in Vesk,
+> that was by a Pahtra arguing against basically everything the cult taught. And
+> for whatever reason, their words hit me perfectly. Maybe they drew a line
+> between the cult and the Swarm, as an example they figured people would be
+> familiar with and have negative feelings about, but it hit even closer to home
+> for me."
+
+> "And so as I got further into the book, I made my mind up more, and one day,
+> after everyone was asleep, I left. It wasn't exactly hard."
+
+> "I was loose on the world, and the world was loose on me."
+
+**That last line is Jchk's own summary of their freedom. Bring it back. Do not
+paraphrase it.**
+
+Two things the player established that reshape everything:
+
+1. **The house taught Jchk the languages.** Including the one the book was
+   written in. The Open Hand handed Jchk the literacy that got them out, and
+   nobody there did anything wrong.
+2. **The Swarm comparison in the book was a rhetorical device** — the player's
+   own framing: "as an example they figured people would be familiar with." The
+   author reached for the clearest case to establish a shape. Jchk, who had lived
+   inside that case, read it as a description of their own life. **The misreading
+   is what freed them, and it is also why they cannot tell a foreman from a hive
+   queen.**
+
+GM built the book and its author on this foundation: ***A Place Was Made For
+You***, by **Ovel Rasath**, pahtra of Hafrerren. See
+`gm/the-book-and-its-author.md` — including the line already inside the text that
+answers Jchk's confusion, which they have read and not yet heard.
+
+- **Castrovelian** taken as the fifth language. Player: "Sure, Castrovelian
+  works."
+- **The Open Hand is now canon**, accepted by the player.
+
+### Still open going into play
+
+- The companion NPC — not yet chosen or introduced.
+- Does Jchk still physically have the book? (Assumed yes, unconfirmed.)
+- Who recruited Jchk into the Open Hand. Undecided; needs a VOICE before use.
+- Whether *charm* being unlearned gets written down as a refusal.
+- Jchk's discomfort about music and wanting. **OPEN. Do not resolve.**
+- Whether selflessness is good. **OPEN. Do not resolve.**

@@ -87,7 +87,12 @@ it across.
 
 ## Languages
 
-**Common, Shirren, Trinary, Vesk**, + one more from Intelligence (**OPEN**).
+**Common, Shirren, Trinary, Vesk, Castrovelian.**
+
+**All of them except Shirren were learned at the Open Hand.** The house takes in
+people who came out of something, and the people who came out of something were
+mostly conquered by somebody, so you learn their languages or you can't help
+them. The house gave Jchk the tool that let them read their way out.
 
 - **Trinary** — Aballon; anacites and androids. Beings manufactured to serve, and
   then abandoned by the First Ones who built them. Jchk has opinions.
@@ -95,7 +100,9 @@ it across.
   seven conquered planets, plus the pahtras of Pulonis, who fought a war of
   independence and are still listed among its speakers. Jchk did not learn Vesk
   to talk to vesk. They learned it because it's what the occupied were made to
-  learn.
+  learn. **The book was written in Vesk.**
+- **Castrovelian** — lashuntas and formians. Formian hive-cities are ruled by
+  queens. A shirren learning this language is doing it on purpose.
 
 **Limited Telepathy** — communicate mentally with creatures within **30 feet**
 that share a language with you. No access to their thoughts; carries no more
@@ -216,6 +223,28 @@ don't count. You're comfortably under.
 not a settled question for Jchk, and an edict would have made it one. Left out
 deliberately — this is an open tension, not an oversight.*
 
+## The book
+
+***A Place Was Made For You***, by **Ovel Rasath**, a pahtra. Written in Vesk.
+Found in the Open Hand's library, where it had no business being.
+
+It argued against everything the house taught. Jchk read it over weeks and got
+more certain the further in they got. Then one night, after everyone was asleep,
+they walked out.
+
+It wasn't exactly hard.
+
+Passages Jchk knows by heart:
+
+> "A place was made for you. Ask who made it, and what they made it out of."
+
+> "They will tell you that choosing is a burden. They are right. That is not an
+> argument."
+
+> "Consider the Swarm, which is the clearest case and therefore the least useful
+> one. Nobody argues about the Swarm. I raise it only so that we may agree on a
+> shape, and then go looking for that shape in gentler rooms."
+
 ## On the age
 
 26 is Jchk's **estimate**. The Swarm does not record when an individual began,
@@ -225,11 +254,9 @@ paperwork go through.
 
 ## Open decisions
 
-- One remaining Intelligence language (**Castrovelian** suggested — lashuntas
-  *and formians*, whose hive-cities are ruled by queens. A shirren learning the
-  language of another hive species is doing it on purpose.)
 - Whether the pulsecaster's nonlethal setting is a principle or just what was
   cheap. It is also, notably, the gun police carry.
-- **The Open Hand** — the group Jchk fell in with on arrival, and left. Proposed,
-  awaiting player sign-off. See `player-facing/absalom-station.md`.
-- How Jchk got out of it. **Player's call.**
+- **Does Jchk still have the book?** Assumed yes. Physical volume lifted from the
+  house library, or the data chip it arrived on — undecided. Not purchased, so
+  not on the equipment list.
+- Whether *charm* being available and unlearned gets written down as a refusal.

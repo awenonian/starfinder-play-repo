@@ -1,8 +1,13 @@
 # INTENTION — The Open Hand of Hylax
 
-**Status: PROPOSED. Player invited the invention ("maybe even having joined a
-cult of some kind"), but has not signed off on this specific version. Do not
-treat as canon until they do.**
+**Status: CANON.** Player accepted it and added to it: Jchk learned Vesk,
+Trinary and Castrovelian *at the house*, because the people who wash up there
+were mostly conquered by somebody and you cannot help them without their
+language.
+
+**Which means the Open Hand handed Jchk the literacy that let them read their way
+out.** Nobody there did anything wrong. This detail is the entire institution in
+miniature — keep it in reach.
 
 ---
 
@@ -85,5 +90,8 @@ face. Do not rush it at them.
 - **Who recruited Jchk, and are they still there?** Not yet decided. Should be
   one specific person, warm, not slick, who genuinely believes it. Needs a VOICE
   file before they appear.
-- **How Jchk got out.** Player's call — asked, not yet answered. Whatever they
-  say is canon, including "I just walked out one day."
+- **How Jchk got out — ANSWERED by the player.** They found a book in the house
+  library (see `the-book-and-its-author.md`), read it over weeks, and walked out
+  one night after everyone was asleep. Nobody stopped them. Player: "It wasn't
+  exactly hard."
+- **Did the house ever notice the book was in the library?** Not decided.

@@ -38,8 +38,6 @@ handling is bad.
 
 ## The Open Hand of Hylax
 
-*Proposed — see the GM's note. Not yet confirmed canon.*
-
 A mutual-aid house in the Ring for people who came out of something: indenture,
 captivity, contracts, addiction — and ex-Swarm shirrens, of whom the Station
 receives a steady trickle and for whom nobody else has made any arrangements at
@@ -64,4 +62,23 @@ Things Jchk knows for certain about the place:
 - Most of the others stayed. Most of them are fine.
 - Jchk would rather have died than stay.
 
-**Not settled:** how they got out, and what was said. That's yours to write.
+Jchk learned **Vesk, Trinary and Castrovelian** there. The house takes in people
+who came out of something, and those people were mostly conquered by somebody, so
+you learn their languages or you're no use to them.
+
+### How Jchk got out
+
+There was a book in the library that had no business being there:
+***A Place Was Made For You***, by a pahtra named **Ovel Rasath**, written in
+Vesk. It argued against everything the house taught.
+
+Jchk doesn't know how it got in. It might have slipped through. Someone trying to
+break the place open might have left it. Nobody ever said.
+
+Jchk read it over weeks and got more certain the further in they got. Then one
+night, after everyone was asleep, they left.
+
+It wasn't exactly hard.
+
+**Unknown to Jchk:** whether Ovel Rasath is still alive, where they are, or
+whether they'd recognise a word of what Jchk has made of them.
