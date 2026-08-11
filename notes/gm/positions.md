@@ -115,6 +115,27 @@ Then undercut her own framing with the shopping story, and did not notice:
 And she named the terms she needs: *"I'm not asking you to be my supervisor... I'm
 asking whether you want it. That's a different question."*
 
+### Del — accepted that it stops with her · **held, and it cost her something**
+
+Asked by Jchk whether the two of them were now "asking a different question," Del
+rejected the framing — they aren't a level, they aren't on the chain, there is
+nobody above them to lose the argument to — and then landed somewhere she clearly
+had not been before:
+
+> "So there's nobody to send it up to. It stops with us."
+>
+> "I've not had one stop with me before."
+
+**This is Del's whole life in two sentences and it is not about Jchk at all.**
+Twenty-odd years of being assigned, and the first decision that terminates in her
+is one nobody is paying her for. She is not pleased about it. She is not
+displeased either. She is somewhere she has no word for, which is exactly where
+Jchk has been all session, arriving from the opposite direction.
+
+**Do not resolve this into a friendship beat.** They are two people who have both
+just discovered there is nobody above them, and neither has any idea what to do
+with that.
+
 ### Fennow — closed it with generosity · **held, and it worked**
 
 Stopped the cut, ordered nobody aft of frame 200, paid all nine the full day rate

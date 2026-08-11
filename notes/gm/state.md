@@ -22,6 +22,9 @@ out a ship is inhabited creates *some* obligation and Jchk cannot work out which
 one. The narrow ask — get the name — is the part they've committed to precisely
 because it's the part with edges. **Open. Do not close it for them.**
 
+**Session 1 actually closes one beat later than this.** Jchk asked Del a
+question and Del answered it. See the end of `record.md`. Nobody has still moved.
+
 **The immediate next move on the table:** walk forward and ask Orrun for the work
 order on her datapad.
 

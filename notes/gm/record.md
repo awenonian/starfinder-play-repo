@@ -493,3 +493,41 @@ Player answered both questions raised at the wrap:
 The second is a trigger condition rather than a settled fact — logged in
 `state.md` under "The charm trigger". Nobody remarks on the absence until an NPC
 recommends the spell in good faith.
+
+### The actual last beat of session 1
+
+Player came back after the wrap to play one more exchange. **This is where the
+session ends, not the mesh conversation.**
+
+Jchk, to Del, by telepathy:
+
+> "Orrun said sometimes the levels are asking different questions. Are we now
+> asking a different question?"
+
+Jchk is taking Orrun's model — *different levels ask different questions* — and
+applying it to themselves for the first time. The real question underneath is:
+**have we just become a level?** Are we now the ones with a question that differs
+from the people above us? Jchk has no word for that and it frightens them.
+
+Del's answer, in full, because it is the most important thing she has said:
+
+> "No."
+>
+> "That's not — no. Orrun was talking about a chain. Her question loses to
+> Fennow's because Fennow's further up. That's what a chain is for. That's the
+> only thing a chain does."
+>
+> "We're not on it. I'm laid off. You're casual. Neither of us is anything to
+> anybody here."
+>
+> "So there's nobody to send it up to. It stops with us."
+>
+> "I've not had one stop with me before."
+
+**And Jchk said *we*.** Unprompted, in a sentence about the two of them, having
+spent the entire session unable to instruct anyone or claim anything. Nobody
+remarked on it. **Do not have anyone remark on it later either** — but it
+happened, and it is the first evidence of the bond forming in fiction before it
+exists in mechanics.
+
+**SESSION 1 ENDS HERE.**
