@@ -401,3 +401,47 @@ keeps her a challenge rather than an ally, and it is not a lecture.
 
 And the translator Jchk says doesn't exist has been standing next to them the
 whole time, offering, unused, because Jchk would not give an order.
+
+### First contact — the mesh
+
+Del joined KETTLE-HOME (unlocked; "it's just been shouting into an empty corridor
+for eleven years"). Jchk's 7-credit comm unit joined too — **and that solved
+Jchk's lifelong problem, because a comm unit has a keyboard.** Jchk writes Common
+perfectly. First conversation of their life in their own hands, unmediated.
+
+**Mechanical note going forward: Jchk can text.** This also puts *motivating
+ringtone* in reach for anyone whose contact details they acquire.
+
+Contact is **"s.t" — Sevi Thennan**, pahtra. See `kettle-home.md`.
+
+**Jchk disclosed everything, unprompted and unsoftened** — shift length, crew
+size, the forward-of-200 order, the source of that order, and
+*"specialist arrival time unconfirmed."* Player's reasoning: *"everyone makes
+better decisions when all information is available, so I provide everything I
+know."*
+
+Sevi then asked **"who else knows"** and **"before today. did they know we were
+here"** — and disclosed the arrangement: four years of quarterly payments to a
+docking registry clerk to keep the hull flagged occupied-disputed. Paid on
+schedule. Then boots in the corridor this morning.
+
+Del, flatly: *"So somebody stopped getting paid, or somebody stopped being
+there."*
+
+### The ask
+
+Sevi asked Jchk to **find out who signed the salvage order**, framed with an
+explicit refusal clause — *"you can go and it wont be held against you."*
+
+**This is the first stated need in the campaign, and it was stated in the exact
+protocol Jchk's blind spot requires.** Jchk's response: it's a request for
+information, therefore actionable. They'll try.
+
+### Two documents, not one — GM tracking
+
+- **The work order** (outfit-internal): who told Orrun to strip this hull. It is
+  on Orrun's datapad, forty metres forward. Easy, and costs only asking.
+- **The salvage title clearance** (Station docking registry): who let the
+  occupied-disputed flag drop. Harder. This is where the clerk was.
+
+Sevi asked about the second. The first is the stepping stone.
