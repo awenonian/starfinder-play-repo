@@ -84,12 +84,30 @@ combat.
 | What "specialists" actually specialise in | **open, and Jchk hasn't caught it** — do not explain |
 | The lashunta in the queue | **open, uncosted** — Jchk never saw them |
 | The other five residents; two don't move well | **open** — define when met, not before |
-| Whether Jchk still physically has the book | assumed yes, unconfirmed with player |
-| Whether *charm* being unlearned gets written down as a refusal | raised, never answered |
+| Whether Jchk still physically has the book | **CLOSED — yes.** Format (volume vs. data chip) still undecided |
+| *charm* | **CLOSED as a trigger, not a fact.** See below |
 | Who recruited Jchk into the Open Hand | **undecided** — needs a VOICE before use |
 | Did the Open Hand ever notice the book in its library | **undecided** |
 | Jchk's unease about music and *wanting* | **OPEN. Do not resolve.** |
 | Whether selflessness is good | **OPEN. Do not resolve.** |
+
+## The charm trigger — armed, not yet fired
+
+Jchk will never learn *charm*, and **the absence is to stay unremarked**. Player,
+verbatim:
+
+> "I don't think charm *needs* attention called to it, but if someone ever
+> suggests that it's a useful spell, or something, then it might become
+> relevant."
+
+So this is a **loaded condition, not a background fact.** Do not have Jchk
+announce the refusal, and do not have anyone admire it. But the moment an NPC
+says some version of *you're a caster, why don't you just charm him* — in good
+faith, as practical advice, from someone who means well and is trying to help —
+it detonates.
+
+Best delivered by someone Jchk likes, about a problem Jchk is failing to solve
+the hard way.
 
 ## Things that have not happened yet and should be noted as such
 

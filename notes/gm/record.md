@@ -480,3 +480,16 @@ once. She said it at the moment she asked them to stay, and did not appear to
 notice she'd done anything.
 
 Immediate next move on the table: walk forward and ask Orrun for the work order.
+
+### Two loose ends closed after session end
+
+Player answered both questions raised at the wrap:
+
+- **Jchk still has the book.** Confirmed. Format left open.
+- **charm:** *"I don't think charm needs attention called to it, but if someone
+  ever suggests that it's a useful spell, or something, then it might become
+  relevant."*
+
+The second is a trigger condition rather than a settled fact — logged in
+`state.md` under "The charm trigger". Nobody remarks on the absence until an NPC
+recommends the spell in good faith.

@@ -201,6 +201,11 @@ one**, and you have no idea which is which.
 | Hygiene kit (shirren — antennae grooming oil) | 2 | L |
 | **Total** | **150** | ~4 |
 
+**Also carried, not purchased:** ***A Place Was Made For You*** — the copy from
+the Open Hand's library. Confirmed by the player as still in Jchk's possession.
+Whether it's a physical volume or the data chip it arrived on is still undecided
+and can be settled whenever it matters.
+
 **0 credits remaining.** Encumbered above 5 Bulk; the backpack's first 2 Bulk
 don't count. You're comfortably under.
 
@@ -252,11 +257,16 @@ because there are no individuals to record. Every ex-Swarm shirren arrives in th
 galaxy having to pick a number, and most of them pick one that makes the
 paperwork go through.
 
+## On charm
+
+*Charm* is a 1st-rank primal spell. It is on Jchk's list. They have not learned it
+and will not.
+
+**This is not written on the sheet as a declaration, and nobody is to call
+attention to it.** The player was specific: it stays an unremarked absence — until
+somebody suggests it would be useful. Then it becomes very relevant indeed.
+
 ## Open decisions
 
 - Whether the pulsecaster's nonlethal setting is a principle or just what was
   cheap. It is also, notably, the gun police carry.
-- **Does Jchk still have the book?** Assumed yes. Physical volume lifted from the
-  house library, or the data chip it arrived on — undecided. Not purchased, so
-  not on the equipment list.
-- Whether *charm* being available and unlearned gets written down as a refusal.
