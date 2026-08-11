@@ -72,6 +72,14 @@ as a request for information, which is the one category of obligation Jchk has n
 resistance to. **This is the campaign's first real hook and Jchk walked into it
 through the only door they'd open.**
 
+**Amended at the top of session 2, from the player's recap:** the "no resistance"
+framing was too clean. Jchk is *struggling with what sort of obligation this
+creates* — finding out that people live in a thing you were hired to take apart
+does something, and Jchk does not know what, and has not settled it. What they
+have settled is the narrow part: **they will do the thing that was actually
+asked for.** The wider question of what else they owe these people is **live and
+unresolved**, and it should stay that way. Do not have anyone name it for them.
+
 ---
 
 ### Orrun — took both positions inside one minute

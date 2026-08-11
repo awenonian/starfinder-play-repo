@@ -17,6 +17,11 @@ galley plate. **Roughly 4½ hours of shift left.**
 
 Jchk has just told Sevi they'll try to find who signed the salvage order.
 
+**Jchk has not decided what else, if anything, they owe these people.** Finding
+out a ship is inhabited creates *some* obligation and Jchk cannot work out which
+one. The narrow ask — get the name — is the part they've committed to precisely
+because it's the part with edges. **Open. Do not close it for them.**
+
 **The immediate next move on the table:** walk forward and ask Orrun for the work
 order on her datapad.
 
