@@ -8,9 +8,30 @@ villainous. See `the-paper-trail.md` for every name and document.*
 
 ## Where we start
 
+**AMENDED — the player extended session 1 after this plan was first written.**
+
 Mid-scene. Corridor forward of frame 220, ~4½ hours of shift left, nobody has
-moved. Jchk has just told Sevi they'll try to find who signed. Del is standing
-there. The move on the table is: walk forward and ask Orrun.
+moved. But we do **not** open cold on the shift clock. We open in the two seconds
+after **Del said "It stops with us. I've not had one stop with me before."**
+
+That changes the temperature completely. Do not open with Del doing arithmetic
+about the end of shift — she has just arrived somewhere she has no word for, and
+so has Jchk, from the opposite direction. **Neither of them is going to comment on
+it and neither of them knows how to move.** The silence is the scene's opening,
+and the walk forward is what breaks it.
+
+The move on the table is still: walk forward and ask Orrun.
+
+### What Del's answer did to scene 1 with Orrun
+
+Jchk is now carrying a demolished model. They went to Orrun's chain — *the levels
+ask different questions* — as an explanation of the world, and Del knocked it
+down by pointing out that neither of them is on the chain.
+
+**So when Jchk stands in front of Orrun, Orrun is going to restate the chain**,
+because it's her ceiling and she believes it and it is, for her, simply true.
+See the new section in `orrun.md`. She does not improve it. She describes
+plumbing. Jchk has just been told the plumbing doesn't reach them.
 
 ## The through-line
 
@@ -98,6 +119,12 @@ locker, on time, believing it was working.
 Networked heritage, electronic lock, 30 feet, no toolkit, no free hand. Which
 means **Jchk has to ask Del for something, out loud**, and that is the exact
 thing that cost them a translator in session 1.
+
+**And it is now sharper than when this plan was written**, because Del has since
+said *"it stops with us — I've not had one stop with me before."* She no longer
+has an org boundary to default to. If Jchk asks, there is nobody for her to check
+with; if Jchk doesn't ask, there is nobody to tell her to act. **Both of them are
+standing in the gap they just discovered.** Do not say any of this out loud.
 
 Do not engineer this into a lesson. If Jchk stands there and does not ask, Del
 does not volunteer twice, and we walk away from a locker. **That is a completely

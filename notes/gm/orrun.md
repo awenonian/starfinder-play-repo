@@ -53,6 +53,25 @@ quiet pride in the fingers.
 
 > "You're not wrong. I'm still not the one you want."
 
+### The levels line — **reconstructed, not verbatim. Flagged as such on purpose.**
+
+Somewhere in session 1 Orrun said something to Jchk about **the levels asking
+different questions**. The exact wording did not make it into the record; what we
+have is Jchk's paraphrase at the very end of the session:
+
+> *"Orrun said sometimes the levels are asking different questions."*
+
+**Do not quote a verbatim original — there isn't one.** But keep the *idea*,
+because it turned out to be enormous: Jchk took it as a model of the world and
+tried to work out whether they and Del had become a level, and **Del demolished
+it** (see `positions.md`). Orrun still believes it. She would say it again. To
+her it is not a philosophy, it is how a job works — the yard asks *can we*, the
+office asks *should we*, and the office wins because that's what an office is
+for.
+
+**When she restates it, she must not improve it.** She is not making an argument.
+She is describing plumbing.
+
 ## THE ANSWER — why aft isn't on the list
 
 **People live aboard the Kettle.** Long enough in the Armada that they've
