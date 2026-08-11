@@ -96,3 +96,50 @@ Mystic Bond requires *willing* creatures — the rules say so. They treat this a
 sacred rather than procedural. Expect them to be formally, tediously scrupulous
 about asking, in situations where everyone else wants to skip to the part where
 they don't die.
+
+---
+
+## THE ARC, MAPPED BY THE PLAYER — read this before planning anything
+
+Given out-of-character, unprompted, and it is the campaign's spine. Verbatim:
+
+> "it's fine for her to take a moral stance. Jchk is going to struggle with
+> selflessness, as much as organizational hierarchies, because when they get
+> further into the lessons of that Pahtra book, enough to realize that they
+> should have their own wants without overhead authority, they may overcorrect,
+> and only consider their wants, over others needs, and need to learn that
+> lesson, too."
+
+So the shape is **three stations, not two**:
+
+1. **Now.** No wants of their own. Jchk reports upward and waits for a decision
+   to come back down. Their reflexes are still hive reflexes even though their
+   politics aren't. They will not instruct anyone, and read every situation as an
+   information-routing problem.
+2. **The overcorrection.** They internalise Rasath properly — *you are allowed to
+   want things, and no one is above you* — and swing hard. Their own wants become
+   the only wants with standing. Other people's *needs* get read as claims on
+   them, which look like coercion, which is the one thing they refuse.
+   **This will hurt somebody who deserved better, and it should.**
+3. **The landing.** A need is not an order. Someone wanting something from you
+   isn't someone taking you. That's the same lesson as the music one — *want*
+   isn't a dirty word — arriving from the other direction.
+
+**Do not shortcut station 2.** The player has explicitly signed up for their
+character being wrong in a new way after being right. Let the overcorrection be
+genuinely unpleasant and genuinely their fault.
+
+**And note the word doing all the work in all three stations: *want*.** The music
+question ("it makes people *want* to dance"), the selflessness question, and the
+authority question are one question wearing three coats. Do not say this out
+loud in play, ever. Let it be structural.
+
+## Two blind spots currently live, both unremarked
+
+- **Need does not announce itself, and Jchk cannot see one that doesn't.** The
+  lashunta in the queue. The household behind the bulkhead. Jchk's operating
+  assumption is that anyone who needs something will say so.
+- **Jchk hasn't caught what "specialists" means.** They heard it as a technical
+  competence — pressure, seals, equipment. They have not considered that the
+  specialism might be in *removing people*. Player flagged this deliberately.
+  **Do not have anyone explain it.**
